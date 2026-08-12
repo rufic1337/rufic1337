@@ -18,12 +18,21 @@ I build backend systems for e-commerce and web applications — REST APIs, relat
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## Featured Project
+## Featured Projects
 
 ### 🛍️ [ecommerce-api](https://github.com/rufic1337/ecommerce-api)
 A Django REST Framework e-commerce backend: JWT auth, product catalog with search/filtering, a transactional cart→checkout flow, order history, and reviews — with tests, Docker, CI, and API docs included.
 
 `Django` `DRF` `PostgreSQL` `JWT` `Docker` `pytest` `GitHub Actions`
+
+**Live demo:** https://ecommerce-api-qlbr.onrender.com/api/docs/
+
+### ⚡ [taskflow-api](https://github.com/rufic1337/taskflow-api)
+A real-time task/project management backend: workspaces, boards and tasks with live updates pushed over WebSockets (Django Channels), plus async email notifications processed via Celery — the two skills e-commerce CRUD doesn't show.
+
+`Django` `DRF` `Channels` `WebSockets` `Celery` `PostgreSQL` `Docker` `pytest`
+
+**Live demo:** https://taskflow-api-ukzk.onrender.com/api/docs/
 
 ## Let's work together
 
