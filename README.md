@@ -25,11 +25,6 @@ A Django REST Framework e-commerce backend: JWT auth, product catalog with searc
 
 `Django` `DRF` `PostgreSQL` `JWT` `Docker` `pytest` `GitHub Actions`
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=rufic1337&show_icons=true&theme=default" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufic1337&layout=compact&theme=default" alt="Top languages" height="165"/>
-
 ## Let's work together
 
 Open to backend / Django / REST API projects on Upwork — feel free to reach out with what you're building.
