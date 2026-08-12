@@ -29,5 +29,5 @@ A Django REST Framework e-commerce backend: JWT auth, product catalog with searc
 
 Open to backend / Django / REST API projects on Upwork — feel free to reach out with what you're building.
 
-- 💼 Upwork: _add your profile link here_
-- 📧 Email: _add your contact email here_
+- 💼 Upwork: [_*click*_](https://www.upwork.com/freelancers/~01d1f428e65d6d33e7?nav_dir=pop)
+- 📧 Email: arsi23242@gmail.com
