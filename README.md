@@ -34,6 +34,13 @@ A real-time task/project management backend: workspaces, boards and tasks with l
 
 **Live demo:** https://taskflow-api-ukzk.onrender.com/api/docs/
 
+### 💳 [billing-api](https://github.com/rufic1337/billing-api)
+A multi-tenant SaaS billing backend: Stripe subscriptions and invoices, a webhook endpoint with signature verification and idempotent event handling, organization-scoped data isolation with RBAC, transactional CSV user import with row-level validation, and an audit log. 52 tests, including negative tests proving cross-tenant access is impossible.
+
+`Django` `DRF` `Stripe` `Webhooks` `Multi-tenancy` `RBAC` `PostgreSQL` `Docker` `pytest`
+
+**Live demo:** https://billing-api-q6ep.onrender.com/api/docs/
+
 ## Let's work together
 
 Open to backend / Django / REST API projects on Upwork — feel free to reach out with what you're building.
